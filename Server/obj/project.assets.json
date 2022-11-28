@@ -1324,11 +1324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UnityProjects\\Server\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\UnityProjects\\Server_tempale\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\UnityProjects\\Server\\Server\\Server.csproj",
+      "projectPath": "C:\\UnityProjects\\Server_tempale\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Evgeniy\\.nuget\\packages\\",
-      "outputPath": "C:\\UnityProjects\\Server\\Server\\obj\\",
+      "outputPath": "C:\\UnityProjects\\Server_tempale\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Evgeniy\\AppData\\Roaming\\NuGet\\NuGet.Config",

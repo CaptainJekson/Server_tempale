@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EZwfwuN493TK4YuNgMVDgj1lXf3Gx02EpwV4JFiQcha3XNZKeKqN4DOx4pJ49g9HqbmvaVTzrOKoyQOcS7zbFw==",
+  "dgSpecHash": "fWFbOEktB0qlwbYidllScfLmUonVqRr0NgkgdLIbTbNh2m6gxZGMe8Zs7/hGLgkd7LgifWvxmv99n71ZPt6www==",
   "success": true,
-  "projectFilePath": "C:\\UnityProjects\\Server\\Server\\Server.csproj",
+  "projectFilePath": "C:\\UnityProjects\\Server_tempale\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeniy\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\Evgeniy\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
